@@ -119,15 +119,6 @@ ResearchMate is built around a few simple rules:
 - [ ] Add reliable cross-device storage and optional user accounts.
 - [ ] Test every workflow across desktop and mobile before a broader release.
 
-## Project background
-
-ResearchMate AI was developed as an original academic-workspace project during the **OctoberFest 2026** build activities. The [MentorMatch example repository](https://github.com/mitul3737/mentor-match) helped explain the event's multi-tool workflow; ResearchMate is a separate product with a different purpose and interface.
-
-## Feedback and licensing
-
-Feedback, reproducible bug reports, and suggestions are welcome through this repository's Issues tab when available.
-
-**License:** No license has been selected in this repository yet. Please do not assume that a public repository automatically grants permission to reuse its code.
 
 ---
 
